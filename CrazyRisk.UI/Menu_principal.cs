@@ -1,8 +1,8 @@
 namespace CrazyRisk.UI
 {
-    public partial class Form1 : Form
+    public partial class Menu_principal : Form
     {
-        public Form1()
+        public Menu_principal()
         {
             InitializeComponent();
         }
